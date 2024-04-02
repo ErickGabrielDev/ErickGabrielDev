@@ -1,4 +1,8 @@
+<img  width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=header&reversal=true&textBg=false&descAlign=38&descSize=0">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Erick+Gabriel+...;I'm+20+years+old;I+am+from+Brazil,+SP;I+study+developer+in+java+full+stack+.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&textBg=false&descAlign=38&descSize=0">
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
