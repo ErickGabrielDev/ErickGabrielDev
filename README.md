@@ -5,25 +5,24 @@
 
 ##
 
-<hr>
 <div> 
-  <a href = "mailto:erickgabrielferreira80@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:erickgabrielferreira80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/erick-agostinho-644187276" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<div style="width: 200px;">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ErickGabrielDev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ErickGabrielDev&show_icons=true&theme=neon"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickGabrielDev&show_icons=true&theme=neon" />
-</picture>
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGabrielDev&langs_count=8&theme=neon" alt="Top Langs" />
-</a>
 
+##
+
+<div>
+  <a href="https://github.com/ErickGabrielDev"></a>
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=ErickGabrielDev&theme=tokyonight&show_icons=false">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGabrielDev&theme=tokyonight&langs_count=8"> 
 </div>
+
+##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql" />
+  </a>
+</p>
+
