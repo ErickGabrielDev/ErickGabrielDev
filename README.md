@@ -1,7 +1,7 @@
 ### Oi, meu nome é Erick Gabriel, seja bem vindo ao meu perfil! 👋
 
 - Formado em Desenvolvimento Full Stack Web Java pelo Instituto PROA! ⛵ 
-- Atualmente estudo na Cruzeiro do Sul no Curso Superior de Análise e Desenvolvimento de Sistemas. 👾
+- Atualmente estudo Universidade na Cruzeiro do Sul no Curso Superior de Análise e Desenvolvimento de Sistemas. 👾
 
 ##
 
